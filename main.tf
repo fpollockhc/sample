@@ -1,6 +1,5 @@
 variable "test" {
     type = string
-    value = "test"
 
 }
 
